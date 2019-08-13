@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,54 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "dkdk",
+      "description": "dsdsk",
+      "image": "dssdk",
+      "id": 12
+    },
+    {
+      "name": "Fatty Stack ",
+      "description": "It's For Fatties",
+      "image": "https://www.veggiesdontbite.com/wp-content/uploads/2017/10/vegan-barbecue-black-bean-burger-40-Edit-1.jpg",
+      "id": 13
+    },
+    {
+      "name": "Nice and Tasty",
+      "description": "yum yum",
+      "image": "https://d3awvtnmmsvyot.cloudfront.net/api/file/3U4K1rvS6e6wY5XXKPyZ",
+      "id": 14
+    },
+    {
+      "name": "Butt Splash",
+      "description": "too much",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ixKcn3p5DDqkJIFBNGn99c0U2yxm57w1rUwed6lvfRJvlqcZtA",
+      "id": 15
+    },
+    {
+      "name": "jam",
+      "description": "jam",
+      "image": "jam",
+      "id": 16
+    },
+    {
+      "name": "Bobandy",
+      "description": "good with liqour",
+      "image": "https://cdn.thinglink.me/api/image/1106267414674276354/1024/10/scaletowidth",
+      "id": 17
+    },
+    {
+      "name": "Lahey",
+      "description": "RIP",
+      "image": "https://media1.fdncms.com/orlando/imager/u/original/2442616/11701148_871148279620712_2388222093905344239_n.jpg",
+      "id": 18
+    },
+    {
+      "name": "yo",
+      "description": "yo",
+      "image": "https://media1.fdncms.com/orlando/imager/u/original/2442616/11701148_871148279620712_2388222093905344239_n.jpg",
+      "id": 19
     }
   ]
 }
